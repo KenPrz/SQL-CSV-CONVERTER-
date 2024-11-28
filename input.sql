@@ -1,0 +1,3 @@
+CREATE TABLE `tableName` (
+--   TABLE CONTENTS
+)
